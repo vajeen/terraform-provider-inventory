@@ -1,4 +1,4 @@
-module terraform-provider-inventory
+module github.com/vajeen/terraform-provider-inventory
 
 go 1.23.7
 
